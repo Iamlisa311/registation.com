@@ -1,0 +1,72 @@
+*{
+    margin:0;
+    padding:0;
+}
+h1{
+    text-align: center;
+    font-style: italic;
+    background-color:whitesmoke;
+    height:50px;
+    padding: 10px;
+    border:2px solid powderblue;
+}
+marquee{
+    color:blue;
+    
+}
+body{
+    background:url(/wallpaper.png)
+    
+    }
+
+div.main{
+   width:400px;
+   margin:50px auto;
+}
+h2{ 
+    text-align:center;
+    padding:20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+
+}
+div.register{
+   background:url(/pastel_backgroundedit.jpg);
+   max-width:400px;
+   width:200%;
+   padding:25px 30px;
+   border-radius: 5px;
+   box-shadow:0 10px 10px rgba(0,0,0,0.15);
+   color:rgb(27, 35, 43);
+}
+form#register{
+    margin:15px;
+}
+label{
+    font-size:18px;
+    font-style:oblique;
+}
+input#name{
+    width:300px;
+    border:1px solid #ddd;
+    border-radius:3px;
+    outline:0;
+    padding:7px;
+    background-color:#fff;
+    box-shadow:inset 1px 1px 5px;
+
+}
+button{
+    width:200px;
+    padding:7px;
+    font-size:16px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight:600;
+    border:none;
+    border-radius:20px;
+        background:linear-gradient(
+        hsla(168,85%,52%,0.5),
+        hsla(263,88%,45%,0.5) 100%
+    );
+    }
+
+    
